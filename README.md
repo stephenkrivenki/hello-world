@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Computer science & engineering at The Ohio State University '24
